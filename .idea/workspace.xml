@@ -1,25 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a1bfd61-9013-4076-b64f-46f37e900e71" name="Default Changelist" comment="TextCNN, out of the box!">
-      <change afterPath="$PROJECT_DIR$/TextCNN/src/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextCNN/src/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextCNN/src/score.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextCNN/src/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextCNN/src/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextCNN/src/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextCNN/src/data/waimai_10k-mini.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextCNN/src/data/waimai_10k.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextCNN/src/src/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/TextCNN/src/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextCNN/src/src/model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextCNN/src/src/pipeline.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextCNN/src/src/train.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextCNN/src/src/unitTest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextCNN/src/src/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/TextCNN/src/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextCNN/src/testdata/eval/waimai_10k-mini.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextCNN/src/testdata/test/waimai_10k-mini.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextCNN/src/testdata/train/waimai_10k-mini.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextCNN/src/vocab/cn_stopwords.txt" beforeDir="false" />
+    <list default="true" id="4a1bfd61-9013-4076-b64f-46f37e900e71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TextRNN/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,24 +20,25 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TextCNN/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a7ZWHti3MBQtdW1yDww1C8lA0Q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TextRNN" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\renqin\Desktop\DL" />
-      <recent name="C:\Users\renqin\Desktop\DL\data" />
-      <recent name="C:\Users\renqin\Desktop\DL\TextCNN\src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\renqin\Desktop\DL\TextCNN" />
       <recent name="C:\Users\renqin\Desktop\DL\config" />
       <recent name="C:\Users\renqin\Desktop\DL" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\renqin\Desktop\DL\TextRNN" />
+      <recent name="C:\Users\renqin\Desktop\DL" />
+      <recent name="C:\Users\renqin\Desktop\DL\data" />
+      <recent name="C:\Users\renqin\Desktop\DL\TextCNN\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -203,7 +189,8 @@
       <workItem from="1586854515038" duration="441000" />
       <workItem from="1586873938477" duration="10280000" />
       <workItem from="1586918751512" duration="13256000" />
-      <workItem from="1586998667894" duration="27708000" />
+      <workItem from="1586998667894" duration="28222000" />
+      <workItem from="1587108976763" duration="5240000" />
     </task>
     <servers />
   </component>
